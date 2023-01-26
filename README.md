@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**shubzz151/shubzz151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Shubham! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a Backend developer...
+
+
+## 🛠 Skills
+**Programming Languages** 
+
+- C, C++, Java, Python
+
+- PHP, Javascript
+
+**Web Development** 
+
+- HTML/HTML5, CSS3, XML
+
+**IDE & Tools**
+
+- Visual studio Code, Sublime, IntelliJ
+
+**Version Control**
+
+- GIT
+
+**Database**
+
+- MySQL
+
+**Operating System**
+
+- Windows NT, Linux Distributions
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kadam-4a782a225)
+
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shubhamkadam151151@gmail.com)
+
