@@ -9,9 +9,9 @@ I'm a Backend developer...
 ## 🛠 Skills
 **Programming Languages** 
 
-- C, C++, Java, Python
+- C, C++, Java
 
-- PHP, Javascript
+-  Javascript
 
 **Web Development** 
 
